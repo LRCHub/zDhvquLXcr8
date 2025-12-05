@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "＊〜アスタリスク〜（アルバムバージョン）",
+  "base_artist": "ORANGE RANGE",
+  "createdAt": "2025-12-05T04:17:55.676936Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "＊〜アスタリスク〜（アルバムバージョン）",
+      "artist": "ORANGE RANGE",
+      "has_synced": true,
+      "path": "select/01_〜アスタリスク〜(アルバムバージョン)_ORANGE_RANGE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "＊〜アスタリスク〜（アルバムバージョン） - *Asterisk",
+      "artist": "ORANGE RANGE",
+      "has_synced": true,
+      "path": "select/02_〜アスタリスク〜(アルバムバージョン)_-__Asterisk_ORANGE_RANGE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "＊～アスタリスク～（アルバムバージョン）",
+      "artist": "Orange Range",
+      "has_synced": true,
+      "path": "select/03_~アスタリスク~(アルバムバージョン)_Orange_Range.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "＊〜アスタリスク〜（アルバムバージョン） - *Asterisk",
+      "artist": "Song, ORANGE RANGE",
+      "has_synced": true,
+      "path": "select/04_〜アスタリスク〜(アルバムバージョン)_-__Asterisk_Song,_ORANGE_RANGE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "*～アスタリスク～",
+      "artist": "ORANGE RANGE",
+      "has_synced": false,
+      "path": "select/pl_01_~アスタリスク~_ORANGE_RANGE.txt"
+    }
+  ]
+}
